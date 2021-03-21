@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## NRA Company - nemer raslan abbud - An employees management Wystem Website
+## NRA Company - nemer raslan abbud - An employees management System Website.
 
 nemr.aboud@gmail.com
 
