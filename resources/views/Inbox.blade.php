@@ -123,7 +123,7 @@
                               </a>
                           </div>
                           <a href="{{url('/home')}}">
-                          <hr> HexaCit.
+                          <hr> NRA Company
                           </a>
                       </div>
 
